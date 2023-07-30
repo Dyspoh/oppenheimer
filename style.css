@@ -1,0 +1,33 @@
+header{
+color: rgb(244, 249, 253);
+background-color: gray;
+
+
+
+}
+
+
+
+
+body{ text-align: center;
+   
+   font: 1em sans-serif;
+
+}
+img{
+   width: 100%;
+}
+
+main{  min-width: 320px;
+   max-width: 800px; 
+   margin: auto;
+
+}
+div{
+   background-color: rgb(67, 68, 70);
+   color: aliceblue;
+   border-radius: 10px;
+   padding: 20px;
+   border: 1px solid black;
+   
+}
